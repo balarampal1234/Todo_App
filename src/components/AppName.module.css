@@ -1,0 +1,9 @@
+/* jo jo css multiple components mai use hua hai ham isko use nehi kar sakte hai so jo jo single components mai use hua hai isko ham use karenge */
+
+.todoHeading {
+  font-weight: 700 ;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 25px;
+  color:rgb(6, 80, 74);
+}
